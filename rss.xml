@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Vesti o popustima</title>
+		<link>https://apartmanij.000webhostapp.com/smestaj.html</link>
+		<description>Najnoviji popusti</description>
+	
+	<item>
+		<title>Novogodišnji popusti</title>
+		<link>https://apartmanij.000webhostapp.com/smestaj.html</link>
+		<description>Apartmani Jevrić daju novogodišnje popuste mladim bračnim parovima</description>
+	</item>
+	<item>
+		<title>Popusti za decu do 10 godina</title>
+		<link>https://apartmanij.000webhostapp.com/smestaj.html</link>
+		<description>Apartmani Jevrić daju popust 50% za svako dete do 10 godina</description>
+	</item>
+	</channel>
+</rss>
