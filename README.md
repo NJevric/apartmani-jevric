@@ -1,4 +1,4 @@
 # webdizajn decembar 2018
-Project for HTML/CSS without responsive design
+Project for HTML/CSS without responsive design course
 </br>
-course at ICT College
+@ ICT College
