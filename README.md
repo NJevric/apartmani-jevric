@@ -4,7 +4,5 @@ Project for web design course @ ICT College
 * HTML
 * CSS
 * XML
-</br>
-
 ### Link to website
 https://njevric.github.io/apartmani-jevric/
