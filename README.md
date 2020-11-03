@@ -1,4 +1,4 @@
-# webdizajn decembar 2018
+# First Website (non responsive)
 Project for HTML/CSS without responsive design course
 </br>
 @ ICT College
